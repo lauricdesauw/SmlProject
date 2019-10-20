@@ -18,16 +18,17 @@ The learning approaches should be evaluated. The study should explain the choice
 * Read data files into a dataframe; **- DONE**
 * Vectorize reviews to get numerical values; **- DONE**
 * Divide dataset into *3* sets: training, validate, testing; **- DONE**
-* Creating *3* models to learn the dataset:
-	1. SVM;
-	2. Neural Network;
-	3. ??? (maybe Random Forest or Naives Bayes);
-* Find optimal meta-parameters for each model:
-	1. Model 1;
-	2. Model 2;
-	3. Model 3;
-* Compute statistical tests as confusion matrix, real error, etc;
-* Compare the result of all three models;
+* Creating *3* models to learn the dataset: **- DONE**
+	1. SVM; **- DONE**
+	2. Logistic Regression; **- DONE**
+	3. Naives Bayes; **- DONE**
+* Find optimal meta-parameters for each model: **- DONE**
+	1. Model 1; **- DONE**
+	2. Model 2; **- DONE**
+	3. Model 3;	**- DONE**
+* Do it for both dataset and compare the generalization capacity of classifier; **- DONE**
+* Compute statistical tests as confusion matrix, real error, etc; **- DONE**
+* Compare the result of all three models; **- DONE**
 * Write the report;
 * Prepare the slide;
 * **BE HAPPY, ALL THE WORK IS DONE**
